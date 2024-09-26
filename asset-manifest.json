@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b0d6f539.css",
-    "main.js": "/Portfolio/static/js/main.d2c761a6.js",
+    "main.js": "/Portfolio/static/js/main.dc6da17a.js",
     "static/js/453.b21437c2.chunk.js": "/Portfolio/static/js/453.b21437c2.chunk.js",
     "static/media/cosmic-banner.jpeg": "/Portfolio/static/media/cosmic-banner.6919a97b6e728b9e12cf.jpeg",
     "static/media/catronaut.png": "/Portfolio/static/media/catronaut.d7b57282d312b013a6ab.png",
@@ -25,11 +25,11 @@
     "index.html": "/Portfolio/index.html",
     "static/media/nav-icon1-li.svg": "/Portfolio/static/media/nav-icon1-li.721d5414c26365f117e71d46b6641cb2.svg",
     "main.b0d6f539.css.map": "/Portfolio/static/css/main.b0d6f539.css.map",
-    "main.d2c761a6.js.map": "/Portfolio/static/js/main.d2c761a6.js.map",
+    "main.dc6da17a.js.map": "/Portfolio/static/js/main.dc6da17a.js.map",
     "453.b21437c2.chunk.js.map": "/Portfolio/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0d6f539.css",
-    "static/js/main.d2c761a6.js"
+    "static/js/main.dc6da17a.js"
   ]
 }
