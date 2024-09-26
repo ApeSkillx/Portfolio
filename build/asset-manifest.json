@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b0d6f539.css",
+    "main.js": "/Portfolio/static/js/main.dc6da17a.js",
+    "static/js/453.b21437c2.chunk.js": "/Portfolio/static/js/453.b21437c2.chunk.js",
+    "static/media/cosmic-banner.jpeg": "/Portfolio/static/media/cosmic-banner.6919a97b6e728b9e12cf.jpeg",
+    "static/media/catronaut.png": "/Portfolio/static/media/catronaut.d7b57282d312b013a6ab.png",
+    "static/media/color-sharp.png": "/Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/minder-proj.png": "/Portfolio/static/media/minder-proj.7e7131273dab3f7f77c3.png",
+    "static/media/apple-proj.png": "/Portfolio/static/media/apple-proj.8051e3eb54dd7018b6b8.png",
+    "static/media/ICAR Discussion Forum.png": "/Portfolio/static/media/ICAR Discussion Forum.6810de5e6128d7544365.png",
+    "static/media/sample-project-img1.png": "/Portfolio/static/media/sample-project-img1.ea7b3c06f163000e364a.png",
+    "static/media/sample-project-img2.png": "/Portfolio/static/media/sample-project-img2.cd2535c967f05b3d9db3.png",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.6df8e9eb5aee91a7d939de7affbacffa.svg",
+    "static/media/sample-project-img3.png": "/Portfolio/static/media/sample-project-img3.845eb33757fb7b803ec3.png",
+    "static/media/contact-img.svg": "/Portfolio/static/media/contact-img.5e46ff54a0396038c2661c8ea14a5a3c.svg",
+    "static/media/CentraNo2-Bold.ttf": "/Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon-github.svg": "/Portfolio/static/media/nav-icon-github.147e3ee0970a4e3849b542783d5d8483.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/nav-icon1-li.svg": "/Portfolio/static/media/nav-icon1-li.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.b0d6f539.css.map": "/Portfolio/static/css/main.b0d6f539.css.map",
+    "main.dc6da17a.js.map": "/Portfolio/static/js/main.dc6da17a.js.map",
+    "453.b21437c2.chunk.js.map": "/Portfolio/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0d6f539.css",
+    "static/js/main.dc6da17a.js"
+  ]
+}
