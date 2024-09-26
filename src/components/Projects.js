@@ -28,7 +28,7 @@ export const Projects = () => {
       title: "ICAR Discussion Forum",
       description: "Built for ICAR government organisation under Ministry of Agriculture to help improve the communication between between various ICAR divisions, groups, organisations and departments. ",
       imgUrl: icarProj,
-      link: "https://example.com/project1",
+      link: "icarforum-dhg9g2d8bzfmdbgf.brazilsouth-01.azurewebsites.net",
     },
     // {
     //   title: "Business Startup",
